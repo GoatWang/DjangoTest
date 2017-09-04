@@ -1,6 +1,5 @@
-bs4
-Django
-pandas
-pylint
-requests
-wheel
+bs4==0.0.1
+Django==1.11.4
+pandas==0.20.3
+pylint==1.7.2
+requests==2.18.4
