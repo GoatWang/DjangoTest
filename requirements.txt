@@ -1,0 +1,6 @@
+bs4
+Django
+pandas
+pylint
+requests
+wheel
